@@ -1,0 +1,10 @@
+<Context>
+	<Resource name = "jdbc/rottenapples"
+		auth="Container"
+		type="javax.sql.DataSource"
+		driverClassName="com.mysql.jdbc.Driver"
+		url="jdbc:mysql://localhost:3306/rottenapples"
+		username="root"
+		password="1234"
+	/>
+</Context>
